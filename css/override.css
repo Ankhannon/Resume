@@ -1,0 +1,33 @@
+nav {
+  position: fixed;
+  margin: 10px;
+}
+
+h1 {
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility;
+}
+
+.github, .linkedin {
+  width: 32px;
+  height: 32px;
+  margin: 8px;
+  float: right;
+}
+
+.github:hover, .linkedin:hover {
+-webkit-filter: invert(50%);
+filter: invert(50%);
+}
+
+.icon {
+  width: 32px;
+  height: 32px;
+}
+
+.title {
+  text-align: center;
+}
