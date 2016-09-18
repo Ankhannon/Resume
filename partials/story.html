@@ -16,16 +16,17 @@
 
 
 <div class="container-fluid">
-  <div class="row">
-    <div class="sidebar col-md-3">
-      <div>
-        <h1 class="storylist">Stories</h1>
+  <div class="story row" ng-click="ctrl.enterStory(book.story.storyid)">
+      <div class="image col-md-6">
+        <img src="{{ctrl.story.story.picture}}" class="picture"/>
       </div>
-      <div ng-repeat="book in ctrl.stories" ng-click="ctrl.gotoStory(book.story.storyid)">
-        <h2 class="title">
-          {{book.story.title}}
-        </h2>
+      <div class="info col-md-6">
+        <div class="title">
+          <h3>{{ctrl.story.story.title}}</h3>
+        </div>
+        <div class="summary">
+          <h3>{{ctrl.story.story.summary}}</h3>
+        </div>
       </div>
-    </div>
   </div>
 </div>

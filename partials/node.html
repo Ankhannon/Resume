@@ -1,0 +1,35 @@
+<nav class="navbar">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="github" ng-click="ctrl.goGithub()" title="Visit my GitHub Page">
+        <img src="images/github.png" />
+      </div>
+      <div class="linkedin" ng-click="ctrl.goLinkedin()" title="Visit my LinkedIn Page">
+        <img class="icon" src="images/linkedin.png" />
+      </div>
+      <div class="website col-md-10 col-md-offset-1" ng-click="ctrl.goHome()">
+        <h1 class="elegantshadow">Adam Dykaar's Story Emporium</h1>
+      </div>
+    </div>
+  </div>
+</nav>
+
+<div class="node container-fluid">
+  <div class="nodetitle">
+    <h2>{{ctrl.node.nodetitle}}</h2>
+  </div>
+  <div class="storypartial">
+    <p style="white-space: pre-wrap;">
+      {{ctrl.node.storypartial}}
+    </p>
+  </div>
+  <div class="choices row">
+    <div class="choice col-md-6" ng-click="ctrl.choiceOne(ctrl.node.choice1dest)" ng-model="ctrl.disabled" ng-disabled="ctrl.disabled">
+      {{ctrl.node.choice1txt}}
+    </div>
+    <div class="choice col-md-6" ng-click="ctrl.choiceTwo(ctrl.node.choice2dest)">
+      {{ctrl.node.choice2txt}}
+    </div>
+  </div>
+
+</div>

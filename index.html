@@ -15,12 +15,16 @@
     <script src="app.js"></script>
     <!-- Controllers -->
     <script src="controllers/homepage.ctrl.js"></script>
+    <script src="controllers/story.ctrl.js"></script>
+    <script src="controllers/node.ctrl.js"></script>
+    <!-- Services -->
+    <script src="services/library.srv.js"></script>
   </head>
   <body ng-App="myApp">
 
     <div class="container-fluid">
 
-        <ng-view></ng-view>
+        <div class="ng-view" autoscroll="true"></div>
 
     </div>
 
