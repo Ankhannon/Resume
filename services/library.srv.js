@@ -22,7 +22,8 @@
 
 }
 
-  var STORY1_NODES = [{
+  var STORY1_NODES = [
+    {
     "nodeid" : "0",
     "nodetitle" : "The Beginning",
     "storypartial" : `I’m back here again, or at least it feels that way as I stand in the middle of this burning city that is being pelted by thousands of raindrops. A sense of déjà vu so overpowering it feels like vertigo rages through my head, much like the electrical storms that thunder in the sky above it.
@@ -47,9 +48,11 @@
     "choice1dest" : "01",
     "choice2txt" : "Kill Pierrot",
     "choice2dest" : "02"
-  }]
+  }
+]
 
-  var STORY2_NODES = [{
+  var STORY2_NODES = [
+  {
     "nodeid" : "0",
     "nodetitle" : "Page One",
     "storypartial" : `Sam Lock sat at the bar and ordered another drink, muttering sotto voce into the empty glass in front of him, complaining about the unfairness of it all.
@@ -282,15 +285,41 @@
     "choice2dest" : "/",
   }]
 
+  var STORY3_NODES = [
+    {
+      "nodeid" : "0",
+      "nodetitle" : "Page One",
+      "storypartial" : `Albert is twelve, which puts him in the sixth grade. He has, at various times in his life, been offered the opportunity to skip ahead a grade level or two, but he has declined every time. His parents support his decision and agree with him when he says that staying with his friends and in his own age group is more important than cutting a few years off of the amount of time it normally takes to finish school. His teachers and his parents believe that Albert is smart, perhaps even a genius, and although Albert knows this and knows it isn’t actually true he doesn’t bother to dissuade them of the notion. It’s better for them to believe he’s simply gifted then to know the true nature of his gift.
+	Albert goes to an average school which services grades one through six, in an average suburban city. His parents are both office workers, and Albert is an only child. His parents are proud of him, if a little bit concerned. Sometimes Albert seems different to them, detached from life. Sometimes he’s a happy, laughing child, filled with the glow of youthful energy that is the envy of his elders. Other times though, Albert is withdrawn, more serious and possessed of a gravity that belies his modest age. Albert’s parents whisper to each other late at night when Albert is asleep, thinking of words like multiple personalities or bipolar or the dreaded schizophrenia. If Albert had been a parent himself he might have known how afraid his own parents were for him, and then he might have told them the truth, but he didn’t know and so he didn’t tell. He kept the truth to himself because he told himself to do so. In a way his parents were simultaneously both completely right and dead wrong when they thought their son might be hearing voices. Albert did indeed hear voices, it was just that the voices were all his own.
+	Albert’s voices, unlike those of the truly mentally disturbed, only spoke to him when he asked them to. Unlike people with multiple personality disorder, Albert’s voices had real bodies and lives of their own and sometimes weren’t happy about being called away, although they always came when he asked. Though Albert—being twelve—didn’t understand the true power of his particular gift, some of the voices did. The voices that better understood the wider world were the ones he called upon more often, and those were the same ones which cautioned him to never tell the world about the voices he could hear. Albert always listened to their words, and never doubted their wisdom even if he didn’t understand it.
+	Albert first discovered his gift when he was in third grade. He was sitting in math class, which he never enjoyed, doing a test, which he always hated. Albert wasn’t terrible at math, but neither was he excellent at it, and he had forgotten to study for that particular test. The minutes ticked by as he watched the large clock on the wall. The second hand underwent its smooth rotation again and again as Albert began to grow more and more nervous. He wracked his brain for the answers that wouldn’t come, feeling the stress accumulate faster and faster. The teacher, sitting in her desk at the front of the class, told the class that there were thirty minutes left to finish. Albert looked once more at his test, still blank and devoid of even a single answer, and in his head he made a silent plea for help. Albert didn’t know who he was asking and he didn’t really expect a response, which was why he was amazed when not only did someone answer his call, but that someone was himself.
+	Albert got a perfect score on that test, and then on every test from that point forward. His teachers figured he was working extra hard and they congratulated him on his success with every report card. His parents saw these reports and were proud of him, a little amazed at the fact that Albert went from getting B’s and a few C’s to straight A’s every single time.`,
+      "choice1txt" : "Return Home",
+      "choice1dest" : "/",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "1",
+    },
+    {
+      "nodeid" : "1",
+      "nodetitle" : "Page One",
+      "storypartial" : ``,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "0",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "2",
+    }
+  ]
+
   var STORIES = [
   {
    "story" : {
      "storyid" : "1",
-     "title" : "The Unmoved Mover",
+     "title" : "The Unmoved Mover (UNFINISHED)",
      "summary" : "A choose your own adventure story wherein you determine the fate of the universe itself.",
-     "picture" : "images/unmovedmover.jpg",
+     "picture" : "images/unmovedmover.png",
      "nodes" : STORY1_NODES
-   }},
+   }
+  },
   {
    "story" : {
      "storyid" : "2",
@@ -298,6 +327,15 @@
      "summary" : "A mix of comedy and tragedy, of loneliness and companionship.",
      "picture" : "images/chickenegg.png",
      "nodes" : STORY2_NODES
+   }
+  },
+  {
+   "story" : {
+     "storyid" : "3",
+     "title" : "Lifetimes",
+     "summary" : "A story of a boy who can talk to himself",
+     "picture" : "images/lifetimes.png",
+     "nodes" : STORY3_NODES
    }
   }
   ];
