@@ -1,14 +1,14 @@
 <nav class="navbar">
   <div class="container-fluid">
     <div class="row">
-      <div class="github" ng-click="ctrl.goGithub()" title="Visit my GitHub Page">
+      <div class="github clickable" ng-click="ctrl.goGithub()" title="Visit my GitHub Page">
         <img src="images/github.png" />
       </div>
-      <div class="linkedin" ng-click="ctrl.goLinkedin()" title="Visit my LinkedIn Page">
+      <div class="linkedin clickable" ng-click="ctrl.goLinkedin()" title="Visit my LinkedIn Page">
         <img class="icon" src="images/linkedin.png" />
       </div>
-      <div class="website col-md-10 col-md-offset-1" ng-click="ctrl.goHome()">
-        <h1 class="elegantshadow">Adam Dykaar</h1>
+      <div class="website col-md-4 col-md-offset-4" ng-click="ctrl.goHome()">
+        <h1 class="elegantshadow clickable">Adam Dykaar</h1>
       </div>
     </div>
   </div>
@@ -17,10 +17,10 @@
 
 <div class="container-fluid">
   <div class="story row" ng-click="ctrl.enterStory(book.story.storyid)">
-      <div class="image col-md-6">
+      <div class="image col-md-6 clickable">
         <img src="{{ctrl.story.story.picture}}" class="picture"/>
       </div>
-      <div class="info col-md-6">
+      <div class="info col-md-6 clickable">
         <div class="title">
           <h3>{{ctrl.story.story.title}}</h3>
         </div>

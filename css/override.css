@@ -16,6 +16,10 @@ h2 {
   text-align: center;
 }
 
+.clickable:hover {
+  cursor: pointer;
+}
+
 .github, .linkedin {
   width: 32px;
   height: 32px;
@@ -36,6 +40,12 @@ filter: invert(50%);
 .picture {
 	max-width: 400px;
 	max-height: 215px;
+  margin: 0 auto;
+}
+
+.portrait {
+  max-width: 300px;
+  max-height: 300px;
   margin: 0 auto;
 }
 

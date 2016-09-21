@@ -1,14 +1,14 @@
 <nav class="navbar">
   <div class="container-fluid">
     <div class="row">
-      <div class="github" ng-click="ctrl.goGithub()" title="Visit my GitHub Page">
+      <div class="github clickable" ng-click="ctrl.goGithub()" title="Visit my GitHub Page">
         <img src="images/github.png" />
       </div>
-      <div class="linkedin" ng-click="ctrl.goLinkedin()" title="Visit my LinkedIn Page">
+      <div class="linkedin clickable" ng-click="ctrl.goLinkedin()" title="Visit my LinkedIn Page">
         <img class="icon" src="images/linkedin.png" />
       </div>
-      <div class="website col-md-10 col-md-offset-1" ng-click="ctrl.goHome()">
-        <h1 class="elegantshadow">Adam Dykaar</h1>
+      <div class="website col-md-4 col-md-offset-4" ng-click="ctrl.goHome()">
+        <h1 class="elegantshadow clickable">Adam Dykaar</h1>
       </div>
     </div>
   </div>
@@ -17,15 +17,26 @@
 
 <div class="container-fluid">
   <div class="row">
+
     <div class="sidebar col-md-3">
       <div>
         <h1 class="storylist">Stories</h1>
       </div>
       <div ng-repeat="book in ctrl.stories" ng-click="ctrl.gotoStory(book.story.storyid)">
-        <h2 class="title">
+        <h2 class="title clickable">
           {{book.story.title}}
         </h2>
       </div>
     </div>
+
+    <div class="mainsection col-md-9">
+      <div class="col-md-4">
+        <img class="portrait" src="images/portrait.jpg" />
+      </div>
+      <div class="biography col-md-5">
+
+      </div>
+    </div>
+
   </div>
 </div>
