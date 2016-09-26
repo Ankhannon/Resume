@@ -16,7 +16,7 @@ h2, h3, h4 {
   text-align: center;
 }
 
-.ata {
+.about {
   text-decoration: underline;
   font-size: 30px;
 }
@@ -59,7 +59,7 @@ filter: invert(50%);
 }
 
 .biography {
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .story {
