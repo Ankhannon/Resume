@@ -48,7 +48,71 @@
     "choice1dest" : "01",
     "choice2txt" : "Kill Pierrot",
     "choice2dest" : "02"
-  }
+  },
+  {
+  "nodeid" : "01",
+  "nodetitle" : "Kill Harlequin",
+  "storypartial" : `I turn towards Harlequin and he runs away. Run is I suppose the wrong word for what he does, since he’s moving at least fast enough to leave a sonic boom in his wake.
+	“It’s okay, we’ll find him eventually. There’s not really a lot of ordered space left for him to hide in.” Something else I’ve noticed about Pierrot is that her face is so nondescript that I can only barely recognize it as a face. Looking at it, it seems perfectly normal, but when I look away and try to recall it I can’t.
+	“You knew he would run,” I accuse her.
+	“It’s been a quadrillion cycles. We’ve basically run out of permutations of this little game at this point.”
+	“What if I’d killed you like he asked?”
+	“Then you two would have frolicked around in the decay of the universe for a while until eventually it grew so unstable that you had to kill him. It’s happened before. The problem is that every time you do it you corrupt the universe more each time, which I think is why you don’t remember all of this. The last few thousand cycles have taken their toll on all of us. I think eventually we were bound to be corrupted, but I suppose we’ve all dealt with the strain differently. I’ve repressed everything so completely that I no longer feel anything, and you lost your memory.”
+	“What about Harlequin?”
+	“Harlequin has gone completely insane.”
+	“What’s he going to do?” I ask her. Pierrot crosses over to me. The rioters, temporarily halted due to the sound from Harlequin’s escape, have resumed looting and setting fire to everything flammable.
+	“Well, the longer he’s alive the less I’ll be able to predict his actions.”
+	“What happened to ‘every possible permutation’?”
+	“That was before he went insane. It doesn’t really matter what he does anyways, all that matters is that we need to find him.”`,
+  "choice1txt" : "Split Up",
+  "choice1dest" : "011",
+  "choice2txt" : "Stay With Pierrot",
+  "choice2dest" : "012"
+  },
+  {
+  "nodeid" : "02",
+  "nodetitle" : "Kill Pierrot",
+  "storypartial" : `I turn towards Pierrot and before I can even do anything Harlequin leaps at her. There’s a thunderclap as the air rushes to fill in the space he was just occupying. As fast as he is, however, Pierrot has a head start and disintegrates into a flurry of black shards, which whirl upwards in tornado-like fashion into the sky and away.
+	“Hot damn,” whistled Harlequin, shielding his eyes against the sun as he scanned the sky for any traces of the black frenzy which had already disappeared over the horizon. “Well, never matter. She’ll be back eventually to try and get you to kill me, which you’ve already done an uncountable number of times, by the way.”
+	“A quadrillion,” I mumble, looking around at the devastation that surrounds me. I realize with a start that I don’t even know the name of the city I’m in, let alone which country.
+	“Okay, so maybe it can be counted. Still, what’s done is done and I forgive you.” Harlequin is cheerful, having forced his nemesis to run away, and his grin is magnanimous and shows two or three times too many teeth. “Have you really lost your memory or are you just playing us?”
+	“I can’t believe nobody is screaming right now,” I remark. I’m a little bit shellshocked, thrust into an unknown situation with a blank space in my head where memories should be. It feels like an endless void inside.
+	“It’s the end of the world. Nobody has time to be bothered with whatever we are.”
+	“What are we?”
+	“Harbingers of the end, if I’m being vague. Specifically I have no idea. You gave up trying to figure it out after the first few million cycles. All we know for sure is that we show up whenever the universe is about to be destroyed, and then we destroy it. It’s a team effort. You kill me, I die, Pierrot is a jackass, good times.” Harlequin sighs and adjusts his tie. Suddenly my head feels like it’s being ripped apart and I scream. The Flint screams with me. Images flash through my head. I’m waking up in the morning to the sound of an alarm clock ringing. I’m crushing whole planets beneath me as I scourge a solar system of places to hide. I’m going on a date with a guy named Jackson my parents set me up with because they’re quote-unquote worried about me. I’m killing Pierrot, but he has six arms and purple skin and it isn’t Earth. I’m still screaming as Pierrot shakes me back to reality.
+	“Name!” he shouts in my face as my eyes refocus. “What is your name?”
+	“My name is… my name is…”`,
+  "choice1txt" : "Columbine",
+  "choice1dest" : "021",
+  "choice2txt" : "Rachel",
+  "choice2dest" : "022"
+  },
+  {
+  "nodeid" : "011",
+  "nodetitle" : "Split Up",
+  "storypartial" : `“If it’s so important we find him then let’s split up,” I suggest, looking to Pierrot to see if she likes the idea. Her face remains impassive, but after a few seconds she nods.
+	“Do you remember how to use the Flint?”
+	“More or less,” I brazenly lie. I get the feeling Pierrot isn’t so good with facial expressions seeing as how she has none of her own, so she probably won’t catch my tells if I have any.
+	“Okay then. Use the Flint to try and find him, it should be like dowsing for water. Destroy anything that gets in your way.”
+	With that sage advice that made no sense to me whatsoever--what the hell is dowsing for water--Pierrot disintegrates into thousands of obsidian shards, each one with a blur around it as it seems to draw in most of the surrounding light, and flies away into the distance. I have a brief flash of sitting in a theater watching a movie, Dracula I think it was called, where the titular character did a similar thing but with bats. Did I do that? Was that really me or was that somebody else? I look down and notice for the first time what I’m wearing. Unlike Harlequin and Pierrot I’m dressed casually, in a tee shirt and jeans with a pair of leather boots on that go up to my knees. On a whim I check my pockets, and find a wallet, a set of keys and a cell phone. The wallet belongs to someone named Rachel, as does the phone. There are a lot of pictures in it, most of her with her friends but some I can only assume were taken while on dates. The conclusion is obvious even if I don’t particularly want to embrace it, but just in case I’m wrong I take a selfie in the middle of the riot and check the result. Just as I expected, I’m definitely Rachel, or at the very least I look exactly like her.
+	It occurs to me now that for the first time in my nearly twenty minutes of memory that I am alone. Am I Rachel, or am I who they called me, Columbine? What the hell is the Flint? Why am I doing anything for these people when I don’t remember anything about them besides their names?
+	I put the wallet and phone away and take out the keys. They all remind me of something just outside of memory. One gives me a stronger feeling than the rest and I single it out from the rest on the ring. It’s the keys to my--Rachel’s--motorcycle. I look around for it and find that it--like everything else around me--is on fire and totally destroyed. For the first time I feel legitimately angry. The motorcycle is prompting a strong emotional reaction in me and I can sense that but at the same time it’s just the straw that broke the camel’s back. Both Harlequin and Pierrot are playing me against the other and not telling me anything. I scream and almost unconsciously I thrust the Flint towards the motorcycle. A beam of brilliant white light slams into the motorcycle and as if by magic it’s fixed.
+	Now this is interesting. This is a brand new ballgame, as it were. I look down at the Flint in my hand and grin. I realize that I don’t necessarily have to choose sides here. The Flint might give me an edge over both of them. I stride over to the motorcycle and stick the key into the ignition, turn it, and the engine roars to life. It makes me nostalgic for a time I don’t remember. The part of me that I’m starting to recognize as Rachel glows, and I smile as I rev the engine and start to drive.
+	I’m not going in any particular direction, but as I just drive I start to notice that the riots are getting worse. Muggings, assaults, murders. I could do something about this, but should I? Is it my place to play God, even if I might be genuinely holding the next closest thing in my lap as I ride by?`,
+  "choice1txt" : "Play God",
+  "choice1dest" : "0111",
+  "choice2txt" : "Move On",
+  "choice2dest" : "0112"
+  },
+  {
+  "nodeid" : "012",
+  "nodetitle" : "Stay With Pierrot",
+  "storypartial" : ``,
+  "choice1txt" : "Unfinished",
+  "choice1dest" : "/",
+  "choice2txt" : "Unfinished",
+  "choice2dest" : "/"
+  },
 ]
 
   var STORY2_NODES = [
@@ -464,6 +528,247 @@
     }
   ]
 
+  var STORY4_NODES = [
+    {
+      "nodeid" : "0",
+      "nodetitle" : "Page One",
+      "storypartial" : `Cletus pulled his truck over to the side of the road. Or more accurately, Cletus’ truck drifted into the ditch of its own accord as both its driver and passenger sat slack-jawed in awestruck silence at the strangest thing either man had ever seen.
+	“What the hell is that?” asked Tucker, the aforementioned passenger, looking up at Cletus since the passenger’s side of the truck was now noticeably lower than the driver’s side, their being in the ditch and all. Cletus didn’t even bother to make any noise acknowledging the question. Instead he opened the door and started to walk across the road to where his eyes insisted the thing was. Tucker, shrugging his massive shoulders, followed suit. Between the two, Cletus was definitely the brains of the operation, which was a sad state of affairs for all involved. Tucker more than made up for Cletus’ mental shortcomings by his prodigious strength however, and between the two of them they had the strength of five men and the brains of one and a half.
+	“Hoooooly shit,” breathed Cletus once he was within a few feet of the thing, “I think this is one of them flying saucer thingies.”
+	“You mean it has aliens inside it?” Tucker asked the question with something like awe in his voice. “I saw a document on the Discovery Channel ‘bout UFO’s and aliens and stuff.”
+	“A documentary,” corrected Cletus absently. “I wonder if it’s gonna open by itself or if there’s like, some sort of doorbell or something.”
+	“Yeah, that’s it, a documentally,” agreed Tucker. “Are you sure we should stick around though? What if it doesn’t come in peace?”
+	“Well then all the more reason we should be here to defend the free world!” shouted Cletus wildly. “It falls to us red blooded American patriots to… to… Sweet Jesus, I think something’s coming out!”
+
+Cletus, while not necessarily right about many things in which he believed but could not see, had very good eyes and was definitely right about most things he could see, including the fact that a ramp was lowering out of the side of the flying saucer. At the top, silhouetted by the background light of the interior of the saucer—which was so intense as to be almost blinding even in the midday sun of Texas—strolled casually down the ramp and stood in front of the two human onlookers.
+	Anyone who saw the three gathered there, standing in a triangle so that each could easily see the other two, would have been hard pressed to find a stranger group of people even if one didn’t take the fact that the triangle’s third point was comprised of an alien. Cletus was so tall and skinny that he was best described as a stick person. His skinniness made him look taller and his tallness made him look skinnier. In summary, Cletus was just a shade under six feet tall and weighed somewhere around a hundred and forty pounds, due to a rigorous intake of cigarettes and methamphetamine. Tucker, by comparison, looked like a bull. Tucker was even taller than Cletus, although the odd optical illusion produced by Cletus’ emaciated frame tended to make the observer believe them closer in height to each other than they really were. Tucker was six-three, over three hundred pounds of the type of pure muscle only achievable by those who ritually abuse anabolic steroids. In stark contrast to both of these prime specimens of humanity stood the alien, who was at most four and a half feet tall, grey of complexion, completely hairless, and somehow devoid of a face. It had a head, but where there would have been eyes, a nose, ears and a mouth there was just perfectly smooth grey skin, unmarred by even the most minute of disruptions.
+	The three stood facing each other, the oddest trio on planet Earth, as if in a Mexican standoff. The analogy was fitting, since both Cletus and Tucker were armed, and nobody knew what type of incredible heat the alien was packing under its loose fitting clothes, which were of a material that Cletus couldn’t even begin to describe but that Tucker later said was, ‘the opposite of shiny.’`,
+      "choice1txt" : "Return Home",
+      "choice1dest" : "/",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "1",
+    },
+    {
+      "nodeid" : "1",
+      "nodetitle" : "Page Two",
+      "storypartial" : `“Do you uh, do you want to see our leader or something?” asked Tucker finally when the stress of silence became too much for him to bear. Cletus sighed but didn’t say anything about it, he’d learned long ago to let Tucker deal with things in his own way, and it wasn’t the first time Tucker had ruined an otherwise perfect moment.
+	“Beep,” said the alien, and Cletus’ eyes almost popped out of his head. Tucker, amazingly, seemed to have expected that exact response judging by the calmness of his expression, but Cletus had never come closer to breaking down in hysterics than he had at that moment. How in the hell the alien had managed to beep was totally beyond him, but Cletus couldn’t help imagining that under the clothes the alien was farting out beeps as a mode of communication. Cletus felt the laughter rising up inside him, and was forced to nearly strangle himself to keep it at bay. He sternly reminded himself that he was the ambassador of the world, nay of America itself, and that he shouldn’t start laughing like an insane person. “Beep,” said the alien again, in a tone of voice that communicated insistence, although on what it was insisting Tucker had no idea. All he knew was that the alien apparently only had one noise, and that beside him Tucker was trying with partial success to stop himself from exploding into crazed guffaws, tears streaming down his face as he attempted to keep his mouth shut by way of his hands.
+	“Well uh, I guess we can take you to see the governor. Maybe he’ll be able to call the president or something. Hell, I’m no good in these diploma situations, I never even got my high school diploma,” explained Tucker, completely seriously. Tucker’s imperfect grasp of English was usually a minor inconvenience to Cletus, who corrected him almost without thinking, but this time it was almost too much to bear, and when the alien beeped for a third time and followed Tucker to the truck, which was half in and half out of the ditch, Cletus finally gave up and started to just scream laughter. In a moment he was sitting in the dirt by the side of a little used Texan freeway, next to a UFO, crying with laughter while an alien and his best friend looked on from the other side of the road. The alien made a concerned sounding beep which perfectly mirrored the reflection on Tucker’s face, but Cletus couldn’t hear the alien over the sound of his own laughter or see Tucker’s face through the tears.
+
+	Cletus eventually managed to collect himself enough to drive, although every few minutes the giggles threatened to breach the blockade he’d imposed upon them. Cletus drove in the general direction of Austin with Tucker in his customary spot in the passenger’s seat and the alien sitting in the middle of the back seat. Every time Cletus glanced in the rear view mirror and saw that non-face he had to work to stop himself from bellowing laughter again. Eventually he decided that for the safety of Tucker, himself, and the alien he wouldn’t use the rear view mirror at all. It wasn’t that big a deal, since Cletus had never bothered much with it in the first place. As Cletus’ truck barrelled down the freeway at a hundred and twenty miles an hour, Cletus was distracted from his internal monologue in which he was trying to impress upon himself the incredible seriousness of his quest.
+“Cletus,” said Tucker, nudging his shoulder with one meaty paw, “Cletus, hey, Cletus…”
+	“CLETUS, PULL THAT DAMN TRUCK OF YOURS OVER RIGHT NOW, YOU HEAR?”
+	“He’s had his sirens on for at least five minutes following us,” provided Tucker unhelpfully, “He’s probably pretty angry.” Cletus looked at Tucker, who appeared slightly worried by the prospect of their being arrested but not overly so, looked in the rear view mirror to see the alien’s lack of a face by which it could have communicated any sort of feeling, and in the side mirror, where a very angry Officer Fleming was stomping over to Cletus’ truck, which he had pulled over to the side of the road.
+	“What seems to be the problem, Officer?” asked Cletus sarcastically as Officer Fleming’s beet red face appeared in his window.`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "0",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "2",
+    },
+    {
+      "nodeid" : "2",
+      "nodetitle" : "Page Three",
+      "storypartial" : `“Cletus, do you know what these signs with the number sixty on ‘em mean?” asked Officer Fleming in a faux casual tone that Cletus instantly recognized for one of delight at finally having an excuse to bust him.
+	“They mean the speed limit’s sixty Officer,” provided Tucker, again very unhelpfully.
+	“That’s right Tucker, that’s exactly what they mean. Now tell me, how fast were you going?”
+	“You’re the one with the fancy radar gun, why don’t you tell us?” replied Cletus before Tucker could make any more of an ass out of himself, because although Cletus highly doubted such a thing was possible, he would have also described his meeting an alien in similar terms only yesterday.
+	“A hundred and twenty em-pee-ayche,” sighed Officer Fleming, tasting the words on his tongue as if they were a fine wine of the most luxuriant vintage. “I think I might get to impound your truck this time Cletus old buddy.” The officer paused, looking up from his notebook and squinting into the back window of the truck. “Who’ve you got in the back there? I didn’t know Dumb and Dumber came with a side of Dumbest.” Officer Fleming said this with a perfectly straight face, and then when he realized he’d made a joke he cracked up and laughed to himself, rather obnoxiously in Cletus’ opinion. It was especially annoying since Fleming was only marginally smarter than Tucker, but of course to say that to his face was to invite upon himself a special dose of police brutality.
+	“That reminds me, we never did get your name,” said Cletus offhandedly to the alien in the back seat, while outside the truck Fleming’s loud barking noises continued.
+	“Beep,” responded the alien, predictably. It appeared to know when it was being spoken to at least, since it had remained silent until Cletus specifically asked it a question.
+	“He says his name is Beep officer,” relayed Cletus to the officer with a smile.
+	“Beep, eh? You getting smart with me boy?” Fleming had composed himself again, and was back to being angry with Cletus, just hoping for an excuse to do something. He’d occasionally fantasized about what it would be like to taze Cletus, watch his bony frame bounce on the ground in the current of electric shock.
+	“No sir, you asked for his name and I told it to you,” pointed out Cletus unwisely. He must have literally gotten too smart for Officer Fleming, because the officer immediately ordered everyone out of the truck, including Beep, who either understood the command or was simply mimicking Tucker and Cletus. Cletus, to his own surprise, sincerely believed it was the former, although why he didn’t know. Something about the way it acted made it seem as if it perfectly understood everything that was said to it, although how it could possibly hear without ears Cletus didn’t even bother to consider.`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "1",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "3",
+    },
+    {
+      "nodeid" : "3",
+      "nodetitle" : "Page Four",
+      "storypartial" : `Once they were all out of the truck and standing in a line before the officer, who by the looks of his face appeared to have blood pressure problems, Officer Fleming began to pace up and down in front of them. He’d walked the length of the three of them four times, from Beep on one side past Cletus in the middle to Tucker at the other end and back again before he came to a stop in front of Beep, looking the little grey alien over and scratching his head beneath his wide brimmed hat.
+	“What did you say your name was?”
+	“Beep.”
+	“Right, and where are you from?”
+	“Beep.” Luckily Cletus had mostly exhausted his hysterics earlier, because when Fleming turned to him the look on his face was murderous.
+	“Do you think this is funny Cletus? Is this your idea of a joke?”
+	“I’d like to have my lawyer present before I answer that question officer,” was Cletus’ reply as he stared straight ahead, unblinking even in the early afternoon sun. Fleming, who hadn’t expected an answer, had already turned back to try and figure out how Beep could just not have a face. At the sound of Cletus’ voice, he turned back and calmly sauntered over to stand in front of him, and almost as an afterthought sucker punched Cletus in the gut. While the skinny man was doubled over gasping for breath, the cop glared up at Tucker, and in a rather redundant way verbally dared him to say something.
+	“You got something to say there Tuck? Go ahead, say it, I dare you.”
+	“I don’t think you’re allowed to hit people. Isn’t that police brutality?” Cletus, still bent over and clutching his stomach as if checking his internal organs for damage, looked up at his mammoth friend with something close to admiration. Not because he had said something, but mostly because he’d actually gotten it right.
+	Fleming looked up at Tucker and made a judgment call. Unfortunately for him, he had been educated in the manner of small town cops and highway patrolmen, and so he made the wrong decision. Fleming wasn’t used to having his authority questioned, and he relished power in the way of small minds everywhere. The thing was, Fleming didn’t consider himself an upholder of the law, in Fleming’s tiny mind he was the law, and that meant he felt himself not only justified but morally obligated to dish out punishment as he saw fit. The fact that there was almost no oversight on police officers like him is a travesty that seems never to be addressed, but the main point here—in case it wasn’t already clear—was that Fleming was almost always the dumbest person in whatever room he happened to be in at the time, even if he wasn’t inside. All of which is to say that he decided to punch Tucker the same way he had punched Cletus, and he truly expected a similar result. Anybody with multiple brain cells might have decided differently, but whatever his reasoning, Fleming wound up and slammed his fist into Tucker’s midriff.
+	It was like punching steel. In a flash of pain, Fleming recoiled from Tucker, who was completely unmoved. Indeed it appeared as though he hadn’t even felt the blow, probably because he hadn’t. Fleming was good at punching despite the frequency with which he practiced his techniques on powerless victims. When Fleming’s fist met Tucker’s abdominal wall something had to give, and that something was Fleming’s wrist, which gave spectacularly and with such pain that it brought tears to Fleming’s eyes behind his aviator sunglasses.
+	“That wasn’t smart,” reflected Tucker as he looked down at Fleming, who was cradling his sprained wrist in his hand and grunting. Cletus had never liked Tucker more than in that one moment, but if he kept it up somebody was going to die. Fleming whipped off his sunglasses and in the same fluid motion rammed the barrel of his gun into Tucker’s ribcage. The giant looked at it with a look of such perfect disinterest that he looked to Cletus almost like what he imagined a martyr would look like before they were burned at the stake.
+	“What the fuck did you say to me boy?” hissed Fleming, grinding his gun into Tucker’s shirt. Tucker looked like he was probably going to yawn, and Cletus was about to interrupt when somebody else spoke up.
+	“Beep,” said Beep, and Cletus thought he heard a note of warning in that single syllable, but he was too preoccupied to pay much attention to the alien at the moment, he was too caught up in the drama unfolding between Fleming, who looked more like a murderous psychopath with every passing moment, and Tucker, who looked like he might fall asleep if Fleming didn’t shoot him first.
+	“Don’t think I’ve forgotten about you, you little grey son of a bitch,” said Fleming without looking away from Tucker, “or you Cletus you grimy motherfucker.”
+	“Beep.”`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "2",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "4",
+    },
+    {
+      "nodeid" : "4",
+      "nodetitle" : "Page Five",
+      "storypartial" : `Since both Fleming and Cletus were both concentrating intently on Tucker, the big man was the only one who actually witnessed what happened next. He had looked over to the alien at the second beep, and his eyes widened in comical surprise. Considering how bored Tucker had looked even when being prodded by a loaded gun held by a homicidal maniac, both Cletus and Tucker had started to turn around to see what he was looking at. What they saw was Beep, who had stepped out of line and was pointing something at Fleming. All assembled knew instantly what it was, it was impossible not to know what that thing was unless you’d been living under a rock for your whole life. As Fleming stared down the barrel of the last thing he would ever see, his final act on Earth was to shit his pants.
+	Even as Fleming’s bowels were evacuating themselves into his uniform, Beep fired what was so obviously a ray gun that when it fired an energy ray straight into Fleming’s chest Cletus was almost disappointed. The effect that the ray had on Fleming swiftly banished such thoughts however, as the erstwhile highway patrolman exploded. It was the most terrifying and poetic thing Cletus had ever seen in his life. Tucker disagreed, having seen what happened right before that moment. He maintained that when he saw Beep step forward, turn ninety degrees, and whip out the death ray so fast his arm was a blur and the weapon just appeared in his hand, that he had almost beat Fleming to becoming a member of the exclusive club of men who shit their pants.
+	So when the gore settled, three figures stood where only moments ago there had been four. Beep had replaced the ray gun wherever he had pulled it from with the same preternatural speed with which he had drawn it, and Cletus and Tucker were both standing still with their mouths wide open in shock for the second time that day. Tucker was looking at Beep and still trying to understand how anything could possibly move that fast. Cletus was looking down at the disgusting puddle of residue that had once been Fleming and trying to decide if he should throw up or run away. Fleming’s uniform had survived the death ray better than its occupant had, although that wasn’t to say it had done well. What had once been a pristine set of clothes that had been starched and ironed every day was now a smoldering mess, still smoking in the areas that weren’t soaking in Fleming’s bodily fluids, which were alternately the dark red of blood or the dark brown of feces. Even the gun that he had held was a melted pile of shapeless metal, into which flowed the similarly molten alloy of what used to be Fleming’s watch.
+	“Well, I guess that’s that then,” said Cletus after eventually deciding that even though he wouldn’t wish that fate on his worst enemy (who was until that moment Fleming) there was nothing he could do about it now. He ushered Beep into the backseat of the truck, and when Tucker had collected himself enough to get in the passenger’s seat, the three of them resumed their journey.
+
+	It was getting late, and the trio was still fairly far away from Austin. Texas, in case anyone in the world remains unaware, is a big place. Cletus pulled off the highway into a small town, and booked three rooms for them. As he swiped his credit card, he wondered at how easily he was going along with the crazy plan. Although plan was the wrong word wasn’t it? He was just winging it. He and Tucker were just going with the flow, taking the alien to the governor’s house. That was another thing; Cletus had no idea where the governor lived. Should he take Beep to the governor’s house or was there some sort of office where he worked?
+	Cletus went back out to the parking lot where Tucker and Beep were waiting, and they followed him back into the motel. The receptionist looked at Beep with an expression on her face that was part horrified curiosity and part curious horror. Cletus supposed that was probably what he should have felt as well upon seeing a creature with no face, but oddly he had no problem with it.
+	Once he’d ushered Beep into his room and directed Tucker to his own, Cletus went to the room he’d booked for himself and flopped onto the bed. His bank account had taken a hit on the motel rooms, but he probably had enough money to see the strange adventure through to its conclusion. It felt kind of strange to be thinking of money so soon after seeing Fleming shit himself and then explode, but again Cletus found he didn’t care very much.
+	It wasn’t that Fleming was an idiotic mean spirited jackass either. Ever since he had first laid eyes on Beep everything he used to be concerned with seemed less important somehow. He probably wouldn’t have had a much larger reaction if he hadn’t known the cop that had pulled them over, although that wasn’t likely since Cletus had met every cop and patrolman in the area at one time or another, mostly for things like petty larceny and narcotics. Speaking of narcotics, he hadn’t shot up in a while, although that predated Beep’s arrival. Methamphetamine just didn’t do it for him anymore. Cletus chuckled softly to himself and shook his head, wondering if he’d replaced drugs with this harebrained scheme to take Beep to the governor.
+	And speaking of wondering, Cletus wondered what would happen when he and Tucker finally got Beep wherever he wanted to go, if indeed his beeps had meant he wanted to visit the governor at all. Despite all of the movies he had seen where an alien wanted the locals to ‘take me to your leader’ he wasn’t at all sure that was how it worked in real life. Something about Beep made you think you understood what he wanted, but that could easily be an illusion on his part.
+	Cletus kicked off his boots, lay back on the bed, and closed his eyes. Beep seemed to understand what was happening, he—was it a he?—had definitely understood what a gun was when Fleming had drawn it on Tucker. Tucker had seemed different that day as well, any other day Cletus wouldn’t have been surprised if Tucker flipped out on Fleming for doing what he did, but instead he had been calm and collected, even more so than Cletus himself, an odd reversal of their usual roles. Maybe the alien was having as large an effect on Tucker as he was on Cletus. Cletus got up and showered, pulled his boxers back on and turned off the lights. It was hotter than hellfire in the hotel room, so he opened the window and threw the blankets and sheets to the floor.
+	As he relaxed and closed his eyes once more, his mind turned to Beep, the mysterious little grey figure who was his charge. He tried to imagine where Beep had come from, but all that rose to his mind was a jumble of science fiction and western images. Beep definitely had advanced technology, but that evidently didn’t mean he came from a peaceful society, since Tucker swore up and down he was the fastest quick draw he’d ever seen. Tucker went to the range a lot, and participated in that type of thing, so Cletus believed him. What did that mean though? For that matter, why was Beep even on Earth in the first place? It seemed pretty farfetched that he could be there for diplomatic reasons or to open a line of communication; he only had one word. That was definitely the weirdest part of the whole thing too. Cletus could get over the fact that Beep didn’t have a face, that Beep’s technology made no sense, that he seemed way too relaxed about being driven to an unknown place, but how in the world could a technologically advanced society have a language with only one word? Even if you took into account the different intonation and intensity, there was a limit on how effectively you could communicate with a single word.
+	Cletus sighed, and in spite of himself he smiled. His mother had always warned him about looking a gift horse in the mouth, and here he was trying to stick his head down its throat. Beep was probably the greatest thing that had happened or would ever happen to him. Who cared if he only knew one word? Beep was something exciting, something new. In a lifetime of dabbling with drugs and alcohol, committing crimes and drinking and whoring and gambling, he’d never found himself particularly interested in anything until now. In the face of such an incredible event, Cletus found that even the possibility that Fleming’s death might be traced back to them somehow immaterial. Fuck Fleming anyway, he thought to himself, the guy was an asshole. And on that note, Cletus fell asleep.`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "3",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "5",
+    },
+    {
+      "nodeid" : "5",
+      "nodetitle" : "Page Six",
+      "storypartial" : `In the morning, Cletus woke up and went across the hall to knock on Tucker’s door. Tucker was yawning and stretching and generally looked like he wanted to sleep for another ten hours, but Cletus was far too excited to sit still any longer. He wanted to get on the road as soon as possible so they could make it to Austin that afternoon. Cletus impatiently waited for Tucker to get dressed, and noted the dishevelled look of his friend. Looking in the mirror, he found that he looked even worse, and that his clothes were covered in dust and dirt.
+	“Tucker, how much money ya got?”
+	“Like three or four hundred bucks, why?”
+	“I think we need some new duds. We’re gonna meet the governor man, we can’t show up looking like this.” Cletus tried to wipe some of the dust off of his pants, but only succeeded in smearing it around. He frowned at the smudge and then looked back up at his friend. “Let’s go get ourselves spiffed up; I think we passed a clothes store on the way into town.”
+	Tucker yawned and shrugged, and the two of them walked over to Beep’s room, and knocked. There was silence from behind the door, and Cletus was about to open the door when he remembered that he’d given Beep the key card the previous night. He was just about to suggest that they go downstairs and ask for another key when the door opened and Beep was standing in front of them with one towel around his waist and another around his head, despite the fact that he was totally bald. Cletus noticed that Beep didn’t have nipples, or toes. It was the first time they’d seen him without his weird jumpsuit on. Cletus looked down at Beep’s feet, which were really just pods, up at his faceless head, and then at the towel around his waist. A part of him wanted to see what was under there, but he figured he was better off not knowing.
+	“Come on Beep, we’re going to go buy some new clothes. Do you, uh, want new clothes?” Cletus stammered, once again unsure if Beep understood. It made absolutely no sense that an alien should speak English after less than twenty four hours on Earth, but apparently Beep understood, as he beeped what sounded like an affirmative. The door closed and Cletus and Tucker spent a few minutes discussing exactly how Beep had managed to figure out the shower before Beep reappeared in his jumpsuit, which really did look a little worse for the wear.
+Near the highway at the edge of town there was a men’s clothing store, where Cletus and Tucker bought themselves some new clothes. Since Cletus had paid for the motel rooms, Tucker shelled out some money for Beep to get a few things. The salesman absolutely refused to acknowledge anything remotely different about Beep, and treated him with the same detached disdain with which he treated all of his customers. So after trying on their purchases they dressed in the change rooms and laden down with bags the three of them returned to Cletus’ truck.
+	Tucker, who always had fewer options than most people because of his prodigious size, had bought a couple of pairs of jeans and some plain white T-shirts. Cletus was dressed in shorts and similar white shirts, although in a smaller size. Cletus’ lanky frame meant he had to buy clothes that were too wide for him in order to get the right length, which only further amplified the strange illusion of his being taller than he actually was. Beep, for some unknowable reason, had bought a formal looking suit despite the oppressive heat. He appeared to be perfectly comfortable in it though, and beeped happily as he climbed into the backseat of the truck. Once everyone was settled and buckled in Cletus started the truck and after a small detour to fill up on gas the journey to Austin to find the governor resumed.
+It was around lunchtime that Cletus realized they hadn’t eaten since lunch the previous day. In the excitement surrounding their encounter with Officer Fleming he’d completely forgotten about it, although he probably couldn’t have eaten so soon after seeing and smelling Fleming’s untimely demise.
+	“Beep, do you eat food or drink water or something?”
+	“Beep.”
+	“Right. So then what do you do?”
+	“Beep.”
+	“Well that explains it,” said Cletus sarcastically. “Well, we need to stop to eat, so we’re going to go find a restaurant, ok?”
+	“Beep.”`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "4",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "6",
+    },
+    {
+      "nodeid" : "6",
+      "nodetitle" : "Page Seven",
+      "storypartial" : `Beep went with Cletus and Tucker into the diner, and while he seemed interested in the food—at least that’s how it seemed to Cletus; it was hard to read an expression in a face that wasn’t there—he didn’t eat anything. The method by which Beep sustained himself was simply one more mystery added on to the thousand others concerning the strange alien.
+	They made it to Austin around four that afternoon. Cletus and Tucker were both more rural than urban, and every time they ventured into one of the big cities they realized anew how massive they were. Following a few slightly contradictory directions from local pedestrians, they eventually found city hall.
+	“We’re here to see the governor,” Cletus told the woman at the front desk. The place looked very official and bureaucratic, at least in Cletus’ eyes. He’d never been much for government. In fact, unlike Tucker he’d never even voted before, it was one of the ways in which the big man was more cultured than he was. Not that Tucker had ever voted for either of the two big parties, he always threw his vote away on whatever party had caught his interest that year, sometimes it was the Libertarians, once it had actually been the local Communist party, although Tucker hadn’t explained that particular choice and probably never would.
+	“Uh-huh. Do you have an appointment?” asked the front desk woman without looking up from the computer screen in front of her.
+	“No, but I think he’ll see us,” explained Cletus. “We brought an alien with us.”
+	“Yeah, that’s not how that works,” stated the woman whose name was—at least according to her nametag—Mary, without looking up at Cletus or making any other gesture to acknowledge his presence. “You have to book an appointment months in advance; the governor doesn’t just see anyone who walks in off the street whenever they want. He’s a busy man you know, running the state and all that.”
+	“Listen,” said Cletus, a little impressed by the woman’s blasé attitude towards the governor’s job, especially considering she worked in city hall. “We brought an alien, from space. He probably travelled light years to get here, and we’re like eighty percent sure that he wants to see the governor.”
+	“Maybe sixty percent, he doesn’t really speak English,” added Tucker, with a sideways glance at Beep, who remained silent and waited patiently for something to happen. Tucker thought about telling Mary that Beep was packing more heat than some of the militaries, but decided she might take that the wrong way.
+	“Right,” agreed Cletus. “To be honest, we don’t actually know what he wants, since he only speaks one word, but even if he doesn’t want to see the governor the governor will probably want to see him.”
+	“Uh-huh,” said Mary again, finally looking up to see Cletus and Tucker leaning a little bit over the top of the desk, as well as the crown of Beep’s perfectly smooth grey head. She stood up slightly to get a better visual, and was treated to the full sight of the faceless, hairless alien in a suit who had accompanied the two humans into the building. Mary took the sight pretty well; the other people walking around the lobby of the building were doing double and triple takes at the sight of the alien, and some of them had simply stopped walking and were staring open mouthed in shock, much the same way Cletus and Tucker had stared at the spaceship when they had first seen it. Mary leaned over and before Cletus or Tucker could intervene she rubbed her hand on the flat surface where Beep’s face should have been with a dazed look on her own face. Tucker flinched, evidently the memory of Beep’s quick draw technique still fresh in his mind. Cletus leaned forward and laid a hand on Mary’s arm, gently guiding her hand away from Beep before she could molest him any further. For his part Beep took the whole thing rather well, after a minute vibration that encompassed his entire body, he seemed to be allowing the woman to touch him. In any case he didn’t blow her up with the death ray. Once Mary had collected herself she added, “That’s not a mask is it?”
+	“Beep,” agreed Beep, sounding exactly as if he understood the question.
+	“Well, I’m afraid you boys are in the wrong place. This is where the mayor works, not the governor. I can call and ask if he’s available to see you though.”`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "5",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "7",
+    },
+    {
+      "nodeid" : "7",
+      "nodetitle" : "Page Eight",
+      "storypartial" : `One phone call later, in which the words ‘alien’ and ‘no I’m not kidding you’ were repeated quite frequently, Cletus, Tucker and Beep were on their way to see the mayor. Cletus marvelled at how the woman had spoken as if the governor was right upstairs when he was evidently somewhere else, but he supposed the mayor was all right as well, and Mary’s eccentricities had probably been borne of working in the public sector.
+	At the door, both Cletus and Tucker gave up their firearms to some man in a suit, this one without a name tag. Beep gave up his death ray as well after seeing Cletus and Tucker give up their weapons, although he whipped it out so fast that the man almost fainted. Tucker pointed and mouthed ‘what did I tell you?’ to which Cletus only shrugged.
+	They were shown through the door at the other end of the anteroom and found themselves in a large office full of large things. The paintings on the walls were big, the desk was huge, and the man who sat behind it was truly massive. He probably weighed as much as Tucker, although his form was more rotund.
+	“So this is the alien,” said the mayor, whose nameplate read Mayor McTexas. Cletus couldn’t believe that there was such a name as ‘McTexas’. He wondered if the man was aiming for the governorship as his name implied. “Take a seat gentlemen and... uh… whatever you are,” he finished awkwardly, waving his hand in Beeps direction. The three of them sat in the three chairs, facing across the desk at Mayor McTexas. Beep’s legs weren’t really long enough to sit comfortably, and his feet swung in the air. “Now,” continued the mayor, “What can I do for you?”
+	“Uh,” said Cletus, glancing at Tucker who only shrugged. Cletus had always been the spokesman for their duo before it had become a trio, and evidently he was to continue to fill that position. “Well, we were looking for the governor but we found you instead, so we brought Beep—that’s the name we gave the alien—here hoping maybe you knew what to do. Is there some sort of protocol for this situation?”
+	Mayor McTexas leaned back in his chair and folded his hands over his enormous paunch. “If there’s a protocol for aliens I don’t know what it is,” he said, looking at Beep like he was some sort of solvable puzzle. “You said his name was Beep?”
+	“Beep,” agreed Beep. Maybe his name really was Beep, Cletus thought to himself.
+	“Why don’t you tell me how you and Beep came to be acquainted,” suggested Mayor McTexas.
+	“Alright,” said Cletus, instantly making the decision to deliver a slightly abridged version of their tale. “It’s not a very long story really. Tucker and I—” Tucker nodded to say that was him “—were driving along on the highway, minding our own business, when we saw this spaceship, looked just like a UFO from one of those old sci-fi movies. Anyways, we stop and walk over to investigate, and a part of it opens up right? So out comes Beep here—named that because all he does is Beep—and we didn’t really know what to do did we Tucker?” Tucker shook his head in agreement. “So we ask Beep if he wants to be taken to our leader, since that’s what they do in the movies, and Beep just beeps at us, but it seems like he means yes, so we got back in the truck—Beep got in the backseat—and we drove here. He was wearing something else when he came out of the UFO by the way, but it got dirty so we bought him some clothes.”
+	“Did you pick them out for him?” asked McTexas, who was supremely fascinated by the alien.
+	“Um, no actually, he picked them out himself,” said Cletus. Tucker nodded his head.
+	“And this spaceship, or flying saucer or whatever he came in. Is it still there?”
+	“I believe so. I mean it was still there when we left.”
+	Mayor McTexas had leaned forward so as to better study Beep, but now he once more leaned back in his chair, which complained loudly of his weight with noises of leather rubbing against itself and of wood creaking. “I see,” he said, finally tearing his eyes from Beep’s head and looking down at his desk. “Well then. To be honest, the only aliens I deal with are the ones from other countries, and even then I don’t deal with them directly. Nowhere in my job description does it say what to do when visitors from another planet show up.” Looking up from his desk, his gaze once again fell on Beep as he asked him, “So you want to see the governor then?”
+	“Beep.”
+	“It does sound like that’s what he wants; although since he’s an alien you can’t really tell can you? Maybe what sounds like affirmation to us means the opposite where he comes from. But since we don’t know, we might as well just go with it. You said he never says anything other than that?”
+	“Sometimes he says it differently,” offered Tucker, the first time he’d spoken since they’d entered the office. McTexas looked at him like he was surprised Tucker could talk, an impression a lot of people got since Tucker could go for hours without saying a single word. It wasn’t that he was stupid, at least not that stupid, it was just that he didn’t have a lot to say.
+	“Okay,” said the mayor, who had apparently come to a decision. “I’ll put the word out that you two have an alien and that he wants to meet the governor. In the meantime, I’ll need you two to tell me where you left the UFO, so I can make sure it’s secured. I don’t want anybody vandalizing it while Beep is here.”
+	“So, who exactly are you telling?” asked Cletus, trying to pass off his intense interest as idle curiosity and doing a pretty good job of it, although Mayor McTexas wasn’t fooled.
+	“Only the governor’s office. If you’re worried about me telling NASA don’t be. They swallow our tax dollars like a god damn sycophant even though they haven’t accomplished diddly-squat since the moon landing, the gits. I swear to God the amount of money being pumped into Houston is ridiculous. Anyways, I’ll let the governor decide what to do next, it’s more his area of expertise I should think. Of course, you two will be going with Beep, since you know him the best. Speaking of which, how do you know he’s a he?”
+	“We don’t,” said Cletus as he and Tucker shrugged in unison.`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "6",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "8",
+    },
+    {
+      "nodeid" : "8",
+      "nodetitle" : "Page Nine",
+      "storypartial" : `“So this is the alien I’ve been hearing so much about from my brother,” said Governor McTexas after the introductions had been made.
+	“That’s right.” Cletus looked at the governor oddly. He wondered if they had both changed their name after being elected to their respective offices or if they had been born with it. He had a hard time deciding which was weirder. The two brothers looked so alike they almost had to be twins, and the current gathering was literally as strange as it could possibly be thanks to the silent presence of Beep.
+	“Beep,” beeped Beep in agreement, breaking his silence momentarily.
+	“Well then,” said Governor McTexas. “I’ve thought about it, and I think our next move should be to go take a look at the UFO. I don’t rightly know why Beep is here exactly, but the military-industrial complex would never forgive me if we didn’t at least try and make a weapon out of the thing. I’ll get on the horn with the army and NASA—”
+	“God damn it to hell,” interrupted Mayor McTexas. “Why do we need to bring the gits in on this?”
+	“Because they’re the pride and joy of Texas,” retorted the governor. “And they bring in a ridiculous amount of federal money—”
+	“Collected from the municipalities,” interrupted the mayor again.
+	“Austin, would you shut up for one blasted minute?” Cletus almost lost it at that point. The mayor of Austin, Texas was named Austin McTexas? He wouldn’t have believed it if he hadn’t been standing in a room with an alien from space. Even hearing the name of the mayor in person wouldn’t have made him believe it had Beep not been there to make even that oddity seem normal by comparison. “Anyways,” continued the governor, “I’ll call them up and then we’ll go see about this machine the alien came out of.”
+	“What about the president?” asked Tucker suddenly, coming out of the reverie he had been in since they arrived in the governor’s office. “Shouldn’t we call him too?”
+	“Heck no!” was the brother’s reply, chorused in unison as if it had been rehearsed. “We don’t need the damn feds interfering in Texas’ business,” concluded the governor, who had just finished praising the same feds for giving his state money. “So, if you boys would be so kind as to give me a moment I’ll make the calls and then we can go.”
+
+	Cletus reflected that events were proceeding rather quickly as he stood in the large group of people next to Beep’s spaceship. Both he and Tucker had been sweating bullets when they passed what remained of Fleming’s corpse, but they needn’t have worried. Even with the empty patrol car right next to it the remains still looked more like road kill than anything else. In any case, the drive back to the spaceship passed without incident, and soon Cletus, Tucker and Beep were right back where they started, albeit with many more people than the first time they had been there.
+	With the original trio had come both of the McTexas brothers, a couple of five star generals, and a massive collection of scientists from NASA, at whom Mayor McTexas was glaring with undisguised contempt even as Governor McTexas beamed at them.
+	“Well, the president is on his way so let’s make sure we get something before he arrives. I don’t want him to take the credit for this,” said the governor, totally ignoring the fact that the Commander in Chief was the generals’ boss, and had probably been informed of the situation by them in the first place. The generals didn’t comment, so the governor continued. “Can we open the thing?” Cletus wasn’t sure who he was talking to, whether it was him or Tucker or Beep or the generals or the scientists, but it was a scientist who answered.
+	“No sir, so far the machine is unresponsive. There aren’t any visible controls or mechanisms on the exterior of the craft, and for that matter there aren’t any visible means of propulsion either.”
+	“Well damn,” said Governor McTexas.
+	The McTexas brothers continued to powwow with the assembled men and women, throwing ideas around and spitballing, but Cletus noticed that none of them thought to ask Beep himself what to do, or even if he was willing to divulge the secrets of his machine to them. Cletus wondered what Beep would do if they succeeded in opening it without him, remembering all too clearly the fate that had befallen the dearly unloved Officer Fleming. He turned to see how Beep was reacting to all of this discussion about what was rightfully his, but Beep wasn’t paying any attention at all to the proceedings and was in fact having a quiet discussion with Tucker. Apparently they had been wrong about Beep wanting to meet the governor, since Beep had only said one beep to the man since the two had met.
+	Tucker was whispering to Beep, who was in turn beeping back at him, and the expression on Tucker’s face was so serious that Cletus decided not to interrupt. Finally somebody in the cluster of federal employees had the bright idea to just ask the alien what to do, and the governor called out to Beep, at the sound of which both Beep and Tucker walked over to him.
+	“Cletus,” said Governor McTexas, “can you translate for us?”
+	“What?” asked Cletus, totally unprepared for such a request. “I don’t speak his language. I’m not even sure if he has a language.”
+	“Yes, yes,” assented the governor impatiently, “but can you ask him some questions for us?”
+	“I’ve only ever spoken to him in English; I mean if he can understand me he should be able to understand you.”
+	“I understand that,” said the governor, who obviously did not. “But can you just ask him for us if he’d be willing to open the spaceship so we can look around inside?”
+	Cletus looked at the governor, and then at the cluster of hopeful faces behind him. Then he looked at Beep, who remained silent as if waiting for Cletus to ask the question he just clearly heard for himself. Lastly, Cletus looked at Tucker, but the big man seemed deep in thought—a rarity for Tucker, who seemed so different lately from how he had been before meeting Beep—and he had nothing to say either way. For lack of a better option, Cletus turned to Beep and dutifully repeated the question to him in exactly the same words the governor had just used.
+	“Beep,” said Beep. “Beep beep-beep, beep beep.” Cletus recoiled, thunderstruck. He had never before heard more than one beep at a time. Unseen by all assembled, Tucker seemed to brighten when he heard the statement. Cletus was just amazed at the relative complexity he had heard Beep use for the first time.
+Beep walked over to his spaceship, which opened for him automatically, and the diminutive little alien strolled up the ramp and into the spaceship as the ramp closed itself behind him before anyone could react. The generals were frowning at the new development, the scientists were looking at each other with puzzled looks on their faces, the McTexans were awestruck by the spaceship’s ability to open and close a ramp, Cletus was worried about what would happen next, and Tucker was peacefully awaiting some new development.
+Then, to everybody’s intense surprise except Tucker’s, the spaceship lifted off the ground, hovered in the air for a moment, and then flew away from Earth so fast it was little more than a twinkling dot in the sky less than a second later.
+This was received differently by each group of onlookers. The generals kept frowning, but otherwise they didn’t react. Cletus wondered if any general with a rank of five stars on their lapel was even capable of surprise. The scientists groaned and moaned and complained about a great loss for humankind. Cletus felt sure they were more concerned with the loss to their careers, but he acknowledged that some of Mayor McTexas’ cynicism might have rubbed off on him. The McTexas brothers, after watching the spaceship dwindle away in the distance, turned on their heels, clapped their hands together and treated the whole matter as if it had never happened from that moment onwards. Cletus felt a little let down by the whole event, but he couldn’t help wondering at what exactly Beep had hoped to accomplish on Earth. Whatever it was, he certainly didn’t appear to have done anything other than cruise around in Cletus’ truck for a few days.
+After signing a contract ensuring their silence on the matter, Cletus and Tucker were allowed to go home. Tucker was silent for the entire trip, which wasn’t long since they hadn’t been far from the trailer park where they lived next door to each other when they first came across Beep. Cletus drummed his fingers on the wheel, trying to decide what he had been hoping for. Cletus pulled into the parking lot and he and Tucker hopped out of the truck. Then, for a time, the two men just stood there in silent contemplation, each looking back on the preceding days in their own way.`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "7",
+      "choice2txt" : "Next Page",
+      "choice2dest" : "9",
+    },
+    {
+      "nodeid" : "9",
+      "nodetitle" : "Page Ten",
+      "storypartial" : `“What the hell just happened?” said Cletus finally, meaning the entirety of the past few days.
+“Honestly, I have no idea,” sighed Tucker.
+“Seriously though, what was Beep even doing here? Did he tell you anything?”
+“Not really.” Tucker shrugged his massive shoulders and pulled a cigarette out of the pack in his pocket. “I think you’re looking at it from the wrong angle though. I mean in the movies the aliens always show up for a reason and the heroes get involved and there’s rising action and falling action and the whole nine yards. Who’s to say that’s how aliens really are?”
+“Yeah I guess, but no matter what kind of wizardry he used to get here, it’s still a pretty big trip for not a lot of anything.” Cletus motioned for Tucker to hand him a cigarette, and the two of them stood in the late afternoon sun smoking in front of Cletus’ trailer.
+“I don’t think so. I mean he said—or beeped—that he wanted to see the governor. He didn’t say he wanted to actually talk to the governor, just see him. And he did, didn’t he? He saw the governor.” Tucker took a drag and exhaled straight up, blowing a cloud that drifted away slowly in the soft breeze.
+“I suppose he did,” reflected Cletus. “It just seems like a lot of work just to see the governor of Texas. If he’d hung around a little bit he would have gotten to see the president.”
+“Maybe he didn’t want to see him. Or maybe he was just out of time and had to go home. Also he didn’t only see the governor; he also saw the mayor and us, for whatever that’s worth. Maybe he couldn’t even tell the difference. Maybe he left because he thought faces were gross.” Cletus laughed a little at that, and Tucker smiled. “Seriously, aliens are called aliens for a reason. They’re nothing like us; we can’t know what they’re thinking. It’s possible that for Beep meeting the governor was like a field trip or something.”
+“Yeah, he didn’t only meet a few people either, he also blew up Fleming.”
+“So he did.”
+This was met by silence as Cletus and Tucker reminisced on the moment of sweet irony that was Fleming’s demise. For a man so assured of his own power, he probably never expected to be killed by a power greater than himself.
+“That was weird huh?” asked Cletus, once again breaking the shared silence.
+“Yeah,” agreed Tucker. “That was really weird.”
+“Still, I wish I’d known Beep was just gonna leave after a few days without even saying or beeping goodbye. We shelled out a few hundred bucks on him and he didn’t even share the secrets of the universe with us. Maybe he thought we weren’t ready for them, or maybe he didn’t trust us not to turn them into weapons.”
+“I don’t think that was it,” said Tucker.
+“Why not? Is it because it would be too cliché?”
+“No, it’s that he left us with this.” Tucker reached into the waistband of his jeans and pulled out, of all things, Beep’s death ray.
+“Holy shit,” breathed Cletus. “He gave you his ray gun? When was this?”
+“It was when he was talking to me right before he left. He was beeping at me and I kinda got the idea he was paying us back for helping him or something. I dunno though. He just slipped it to me and then he left.” Tucker shrugged again and laughed. “Seriously I will never understand aliens. You’d think they’d be all peaceful and junk right? But Beep was the god damned most dangerous creature I’ve ever seen. He blew up a police officer, and gave a freaking death ray to literally the first people he met.”
+“Don’t forget travelling light years across the galaxy just to meet with the governor,” added Cletus, smiling at the thought.
+“I wouldn’t dream of it. So, we got ourselves a ray gun from a homicidal alien. Wanna go blow stuff up?”
+“Tucker, you read my fucking mind.”`,
+      "choice1txt" : "Previous Page",
+      "choice1dest" : "8",
+      "choice2txt" : "Return Home",
+      "choice2dest" : "/",
+    }
+  ]
+
   var STORIES = [
   {
    "story" : {
@@ -487,9 +792,18 @@
    "story" : {
      "storyid" : "3",
      "title" : "Lifetimes",
-     "summary" : "A story of a boy who can talk to himself",
+     "summary" : "A story of a boy who can talk to himself.",
      "picture" : "images/lifetimes.png",
      "nodes" : STORY3_NODES
+   }
+  },
+  {
+   "story" : {
+     "storyid" : "4",
+     "title" : "Alienation",
+     "summary" : "The story of an alien named Beep.",
+     "picture" : "images/alienation.jpg",
+     "nodes" : STORY4_NODES
    }
   }
   ];

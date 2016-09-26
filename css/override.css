@@ -11,9 +11,18 @@ h1 {
   text-rendering: optimizeLegibility;
 }
 
-h2 {
+h2, h3, h4 {
   font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
   text-align: center;
+}
+
+.ata {
+  text-decoration: underline;
+  font-size: 30px;
+}
+
+.description {
+  text-align: justify;
 }
 
 .clickable:hover {
@@ -46,7 +55,11 @@ filter: invert(50%);
 .portrait {
   max-width: 300px;
   max-height: 300px;
-  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.biography {
+  margin-top: 100px;
 }
 
 .story {
