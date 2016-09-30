@@ -9,6 +9,7 @@
       home.goLinkedin = goLinkedin;
 			home.goHome = goHome;
 			home.gotoStory = gotoStory;
+			home.goResume = goResume;
 			home.stories = LibrarySrv.stories;
 
 
@@ -17,6 +18,10 @@
 			function goHome() {
         $location.url('/')
       };
+			function goResume() {
+				$location.url('/resume')
+			}
+
       function goGithub() {
         window.location.href = 'https://github.com/Ankhannon';
       };

@@ -19,6 +19,10 @@
 					templateUrl:'partials/node.html',
 					controller:'NodeCtrl as ctrl'
 				})
+				.when('/resume',{
+					templateUrl:'partials/resume.html',
+					controller:'ResumeCtrl as ctrl'
+				})
 				.otherwise({
 					redirectTo:'/home'
 				})
